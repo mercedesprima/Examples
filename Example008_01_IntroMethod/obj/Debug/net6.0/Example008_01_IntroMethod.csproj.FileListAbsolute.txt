@@ -1,0 +1,15 @@
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/bin/Debug/net6.0/Example008_01_IntroMethod
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/bin/Debug/net6.0/Example008_01_IntroMethod.deps.json
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/bin/Debug/net6.0/Example008_01_IntroMethod.runtimeconfig.json
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/bin/Debug/net6.0/Example008_01_IntroMethod.dll
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/bin/Debug/net6.0/Example008_01_IntroMethod.pdb
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.csproj.AssemblyReference.cache
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.AssemblyInfoInputs.cache
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.AssemblyInfo.cs
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.dll
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/refint/Example008_01_IntroMethod.dll
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.pdb
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/Example008_01_IntroMethod.genruntimeconfig.cache
+/Users/ekaterinaposkrobko/Desktop/Учеба/Examples/Example008_01_IntroMethod/obj/Debug/net6.0/ref/Example008_01_IntroMethod.dll
