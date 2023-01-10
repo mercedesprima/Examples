@@ -1,7 +1,7 @@
-﻿void FillArray(int[] collection)
+﻿void FillArray(int[] collection) // Заполняется массив
 {
-    int length = collection.Length;
-    int index = 0;
+    int length = collection.Length; // получаем длину массива
+    int index = 0; // по умолчанию 0
     while (index < length)
     {
         collection[index] = new Random().Next(1, 10);
