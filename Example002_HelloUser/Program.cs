@@ -1,4 +1,5 @@
-﻿Console.Write("Введите ваше имя");
-string username = Console.ReadLine(); 
+﻿// вывести в одну строку
+Console.Write("Введите ваше имя");
+string username = Console.ReadLine();
 Console.Write("Привет, ");
 Console.Write(username);
