@@ -1,4 +1,5 @@
 ﻿Console.Write("Введите имя пользователя:  ");
+// тип переменной строка
 string username = Console.ReadLine();
 
 if(username.ToLower() == "маша")
